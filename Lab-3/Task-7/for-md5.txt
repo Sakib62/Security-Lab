@@ -1,0 +1,1 @@
+In this one we are generating!one-way hash functions using MD5 and SHA256. We will generate hash value h1, flip one bit of the file, generate hash value h2 for modified file. Then check if h1 and h2 are similar or not, also need to write a program to count how many bits are same between them.
