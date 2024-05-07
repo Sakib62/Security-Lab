@@ -23,10 +23,10 @@ This command will display the version of OpenSSL installed on your system, if it
 
 Tasks are provided in separate folders along with the documentation. Go to the respective folder to run commands of a specific task. Necessary resources, screenshots and commands are included.
 
-1. [Task - 1](/Lab-3/Task-1/Readme.md)
-2. [Task - 2](/Lab-3/Task-2/Readme.md)
-3. [Task - 3](/Lab-3/Task-3/Readme.md)
-4. [Task - 4](/Lab-3/Task-4/Readme.md)
-5. [Task - 5](/Lab-3/Task-5/Readme.md)
-6. [Task - 6](/Lab-3/Task-6/Readme.md)
-7. [Task - 7](/Lab-3/Task-7/Readme.md)
+1. [Task - 1 : AES encryption using different modes](/Lab-3/Task-1/Readme.md)
+2. [Task - 2 : Encryption mode - ECB vs CBC](/Lab-3/Task-2/Readme.md)
+3. [Task - 3 : Encryption mode – corrupted cipher text](/Lab-3/Task-3/Readme.md)
+4. [Task - 4 : Padding](/Lab-3/Task-4/Readme.md)
+5. [Task - 5 : Generating Message Digest](/Lab-3/Task-5/Readme.md)
+6. [Task - 6 : Keyed hash and HMAC](/Lab-3/Task-6/Readme.md)
+7. [Task - 7 : Keyed hash and HMAC](/Lab-3/Task-7/Readme.md)
