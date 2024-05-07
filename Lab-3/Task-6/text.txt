@@ -1,0 +1,1 @@
+In this file, we are trying to generate a keyed hash for a file. In cryptography, an HMAC is a specific type of message authentication code (MAC) involving a cryptographic hash function and a secret cryptographic key. So, after creating a file with some text in it, we are using HMAC-MD5, HMAC-SHA256, HMAC-SHA1 to generate a keyed hash for each algorithm.

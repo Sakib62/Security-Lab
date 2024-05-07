@@ -1,0 +1,3 @@
+Information and Network Security course lab assignment - using openssl, hex editor and various encryption algorithm.
+
+Goal is to perform various encryption and decryption task and compare among different algorithm.
